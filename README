@@ -1,0 +1,5 @@
+Generate a static html file from a direcotry with images (in ./static/img/).
+The images are sorted in alfabetical order.
+Each image goes with a description on ./p.txt each description goes in it's own line sorted like the images.
+./index.html is the output (so we can see it in github pages).
+The html and css is copied from bootstrap examples.
